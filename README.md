@@ -1,2 +1,2 @@
 # artyomdashko.github.io
-pages
+web pages
